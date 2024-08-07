@@ -8,17 +8,13 @@
 
 ## Experiência Profissional
 
-Genexus (uso na empresa)
+![Genexus](https://img.shields.io/badge/Genexus-D9232E?style=for-the-badge&logo=genexus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Java
-
-Kotlin
-
-SQL
-
-PostgreSQL
-
-Python
 
 
 ## Contatos
