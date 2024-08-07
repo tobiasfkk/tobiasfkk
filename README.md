@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, eu sou o Tobias Felipe Kiefer!
+Sobre Mim
+🇧🇷 Brasileiro, 22 anos
+📚 Estudante de Engenharia de Software na UDESC (7º semestre de 8)
+💻 Desenvolvedor
 
-<!--
-**tobiasfkk/tobiasfkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experiência Profissional
+Genexus (uso na empresa)
+Java
+Kotlin
+SQL
+PostgreSQL
+Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contatos
+<a href="https://www.instagram.com/tobiasfkk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tobias-felipe-kiefer-008202201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+📧 Email: tobiasfkk@icloud.com
