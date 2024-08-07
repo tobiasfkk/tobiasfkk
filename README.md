@@ -2,7 +2,7 @@
 ## Sobre Mim
 🇧🇷 Brasileiro, 22 anos
 
-📚 Estudante de Engenharia de Software na UDESC (7º semestre de 8)
+📚 Estudante de Engenharia de Software na UDESC (7/8)
 
 💻 Desenvolvedor
 
