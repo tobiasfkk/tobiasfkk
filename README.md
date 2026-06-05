@@ -2,7 +2,7 @@
 
 Desenvolvedor de software com foco em backend, Java e construção de sistemas práticos.
 
-Atualmente trabalho com desenvolvimento de software na Senior Sistemas e sou formado em Engenharia de Software pela UDESC. Gosto de transformar problemas de negócio em soluções simples, bem estruturadas e sustentáveis.
+Atualmente trabalho com desenvolvimento de software na Senior Sistemas e sou formado em Engenharia de Software pela UDESC.
 
 ## O que tenho explorado
 
