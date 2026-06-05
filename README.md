@@ -2,7 +2,7 @@
 
 ---
 
-🇧🇷 Brasileiro, 23 anos
+🇧🇷 Brasileiro, 24 anos
 
 📚 Formado em Engenharia de Software na UDESC
 
